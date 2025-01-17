@@ -60,4 +60,4 @@ const runObfuscationProcess = async (dirNames: string[]) => {
     }
 };
 
-runObfuscationProcess(["./site-configs/L1/", "./site-configs/L2/"]);
+runObfuscationProcess(["./site-configs/L1/", "./site-configs/L2/", "./site-configs/sp_hd/"]);
