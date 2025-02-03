@@ -4,6 +4,21 @@
     <dict>
         <key>frames</key>
         <dict>
+            <key>grid-bigroad.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{33,200}</string>
+                <key>spriteSourceSize</key>
+                <string>{33,200}</string>
+                <key>textureRect</key>
+                <string>{{3,386},{33,200}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
             <key>header-predict-bg-inside.png</key>
             <dict>
                 <key>aliases</key>
@@ -379,21 +394,6 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>stats-grid-bigroad.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{33,200}</string>
-                <key>spriteSourceSize</key>
-                <string>{33,200}</string>
-                <key>textureRect</key>
-                <string>{{3,386},{33,200}}</string>
-                <key>textureRotated</key>
-                <true/>
-            </dict>
             <key>stats-icon-zoom.png</key>
             <dict>
                 <key>aliases</key>
@@ -708,7 +708,7 @@
             <key>size</key>
             <string>{256,512}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:25134283ede1160f5706c57f3c37bd63:bd515a4f3a200dddf7d1bc0cc80d81a2:3bc4ae5e4f890ccaa4726ad1e43d8b91$</string>
+            <string>$TexturePacker:SmartUpdate:44bb81cda9de143504202f56ee87b078:7c9092d87c312f4ef85939f5172ec697:3bc4ae5e4f890ccaa4726ad1e43d8b91$</string>
             <key>textureFileName</key>
             <string>portrait-baccarat.webp</string>
         </dict>
